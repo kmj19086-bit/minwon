@@ -1,5 +1,7 @@
-streamlit
-folium
-streamlit-folium
+streamlit>=1.30.0
+folium>=0.15.0
+streamlit-folium>=0.13.0
+branca>=0.6.0
 google-generativeai
 requests
+
