@@ -1,5 +1,15 @@
 import streamlit as st
+
+# Monkey-patch jinja2.Markup for older folium/branca compatibility in Python 3.11+
+try:
+    import jinja2
+    import markupsafe
+    jinja2.Markup = markupsafe.Markup
+except Exception:
+    pass
+
 import folium
+
 from streamlit_folium import st_folium
 import google.generativeai as genai
 import json
