@@ -555,4 +555,6 @@ with tab2:
             icon = folium.Icon(color=marker_color, icon="info-sign")
             folium.Marker(rep["coords"], popup=popup, icon=icon).addTo(m_community)
             
-        st_folium(m_community, height=450, use_container_width=True, key="community_map")
+        import streamlit.components.v1 as components
+        components.html(m_community._repr_html_(), height=450)
+
