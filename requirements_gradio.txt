@@ -1,0 +1,5 @@
+gradio
+folium>=0.15.0
+branca>=0.6.0
+google-generativeai
+requests
