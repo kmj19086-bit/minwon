@@ -1,0 +1,62 @@
+[
+    {
+        "id": "rep-101",
+        "title": "경부고속도로 서울방향 서초IC 부근 3중 추돌 사고 발생",
+        "category": "교통사고/위험",
+        "authority": "고속도로 순찰대/한국도로공사",
+        "coords": [
+            37.4842,
+            127.0178
+        ],
+        "address": "서울특별시 서초구 서초동 산 112 (경부고속도로 서울방향)",
+        "description": "경부고속도로 서울방향 서초IC 전방 약 500미터 지점 2차로상에서 승용차 3대가 연쇄 추돌하는 심각한 사고가 일어났습니다. 사고 차량 파편이 1, 2, 3차로에 넓게 흩어져 있으며 뒤따르는 차량들이 비상등을 켜고 급제동을 하고 있어 연쇄 추가 사고 위험이 큽니다. 사고 직후 극심한 병목 정체가 유발되고 있으며 긴급 사고 처리 및 견인 조치가 조속히 필요합니다.",
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMjAwIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjMWUyOTNiIi8+PHBhdGggZD0iTTQwIDE0MCBMMTMwIDExMCBMMTgwIDEyMCBMMjcwIDE0MCIgc3Ryb2tlPSIjNGI1NTYzIiBzdHJva2Utd2lkdGg9IjgiIGZpbGw9Im5vbmUiLz48cmVjdCB4PSI2MCIsInk9IjkwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAiIGZpbGw9IiNlZjQ0NDQiIHRyYW5zZm9ybT0icm90YXRlKC0xMCwgNjAsIDkwKSIvPjxyZWN0IHg9IjEyMCIgeT0iODUiIHdpZHRoPSI2MCIgaGVpZ2h0PSIzMCIgZmlsbD0iIzNiODJmNiIgdHJhbnNmb3JtPSJyb3RhdGUoNSwgMTIwLCA4NSkiLz48Y2lyY2xlIGN4PSI3MCIgY3k9IjExNSIgcj0iMTAiIGZpbGw9ImJsYWNrIi8+PGNpcmNsZSBjeD0iMTcwIiBjeT0iMTE1IiByPSIxMCIgZmlsbD0iYmxhY2siLz48dGV4dCB4PSIyMCIgeT0iNDAiIGZpbGw9IiNmODcxNzEiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIxNCI+M19DQVJfQ09MTElTSU9OX09OX0hJR0hXQVk8L3RleHQ+PC9zdmc+",
+        "timestamp": "2026-05-21T15:34:59.747452",
+        "status": "pending"
+    },
+    {
+        "id": "rep-102",
+        "title": "강남구 역삼역 앞 편도 3차선 대형 포트홀 방치",
+        "category": "도로 시설물 파손",
+        "authority": "강남구청 도로관리과",
+        "coords": [
+            37.5006,
+            127.036
+        ],
+        "address": "서울특별시 강남구 역삼동 736-1",
+        "description": "강남구 역삼역 인근 삼거리 편도 3차선 도로 중 2차로 상에 직경 약 50cm, 깊이 10cm 크기의 대형 포트홀이 발생하여 통행 중인 차량들이 급차선 변경을 하거나 타이어 파손 사고가 발생하고 있습니다. 현장에 급아스콘 임시 복구 처방 및 근본적 포장 공사를 긴급 청원합니다.",
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMjAwIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjNGI1NTYzIi8+PHBhdGggZD0iTTUwIDEyMCBRODAgMTUwIDEyMCAxMjAgVDIwMCAxMzAgVDI1MCAxMDBRMTgwIDYwIDE0MCAxMDBUNTAgMTIwIiBmaWxsPSIjMWYyOTM3Ii8+PGNpcmNsZSBjeD0iMTIwIiBjeT0iMTE1IiByPSIxNSIgZmlsbD0iIzExMTgyNyIvPjxjaXJjbGUgY3g9IjE3MCIgY3k9IjExMCIgcj0iMTAiIGZpbGw9IiMxMTE4MjciLz48dGV4dCB4PSIyMCIgeT0iNDAiIGZpbGw9IndoaXRlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZvbnQtc2l6ZT0iMTQiPkRFRVAgUk9BRCBQT1RIT0xEPC90ZXh0Pjwvc3ZnPg==",
+        "timestamp": "2026-05-21T15:34:59.747468",
+        "status": "process"
+    },
+    {
+        "id": "rep-103",
+        "title": "마포구 연남동 주택가 이면도로 보안등 고장 소등",
+        "category": "가로등/가로수 정비",
+        "authority": "마포구청 도시디자인팀",
+        "coords": [
+            37.5615,
+            126.9248
+        ],
+        "address": "서울특별시 마포구 연남동 228-4",
+        "description": "연남동 먹자골목 및 주택가 밀집 지역 내의 골목길 보안등이 전구 수명 종료 또는 전기 단선으로 인해 완전히 작동하지 않아 일대 밤길 통행이 매우 위험하고 우범 지역화되고 있습니다. 안전한 보행을 위해 누전 수리 및 가로등 벌브 즉시 교체를 신청합니다.",
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMjAwIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjMTExODI3Ii8+PGxpbmUgeDE9IjE1MCIgeTE9IjUwIiB4Mj0iMTUwIiB5Mj0iMTkwIiBzdHJva2U9IiM2YjcyODAiIHN0cm9rZS13aWR0aD0iNiIvPjxjaXJjbGUgY3g9IjE1MCIgY3k9IjUwIiByPSIxMiIgZmlsbD0iI2VhYjMwOCIgb3BhY2l0eT0iMC4zIi8+PGNpcmNsZSBjeD0iMTUwIiBjeT0iNTAiIHI9IjYiIGZpbGw9IiM5Y2EzYWYiLz48dGV4dCB4PSIyMCIgeT0iNDAiIGZpbGw9IiNmODcxNzEiIGZvbnQtZmFtaWx5PSJzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iYm9sZCIgZm9udC1zaXplPSIxNCI+QlJPS0VOIFNUUkVFVExJR0hUPC90ZXh0Pjwvc3ZnPg==",
+        "timestamp": "2026-05-21T15:34:59.747472",
+        "status": "done"
+    },
+    {
+        "id": "rep-104",
+        "title": "종로구 인사동 문화거리 소화전 앞 차량 상습 불법 주정차",
+        "category": "불법 주차/안전구역",
+        "authority": "종로구청 교통지도과",
+        "coords": [
+            37.5724,
+            126.9856
+        ],
+        "address": "서울특별시 종로구 인사동 194-4",
+        "description": "인사동 상가 진입로 지상식 소화전 소방 시설의 반경 5m 이내 절대 주정차 금지 구간에 대형 SUV 차량이 상습 무단 주정차하여 통행 곤란 및 화재 대처 방해를 초래하고 있습니다. 지자체 상시 계도 조치 및 견인 단속 딱지 부과를 요청합니다.",
+        "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMjAwIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZmVmMmYyIi8+PHJlY3QgeD0iODAiIHk9IjcwIiB3aWR0aD0iMTQwIiBoZWlnaHQ9IjcwIiByeD0iMTAiIGZpbGw9IiNlZjQ0NDQiLz48Y2lyY2xlIGN4PSIxMTAiIGN5PSIxNDAiIHI9IjE4IiBmaWxsPSIjMWYyOTM3Ii8+PGNpcmNsZSBjeD0iMTkwIiBjeT0iMTQwIiByPSIxOCIgZmlsbD0iIzFmMjkzNyIvPjxjaXJjbGUgY3g9IjE1MCIgY3k9IjEwMCIgcj0iMzAiIHN0cm9rZT0iI2I5MWMxYyIgc3Ryb2tlLXdpZHRoPSI4IiBmaWxsPSJub25lIi8+PHRleHQgeD0iMjAiIHk9IjQwIiBmaWxsPSIjYjkxYzFjIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZvbnQtc2l6ZT0iMTQiPklMTEVHQUwgUEFSS0lORzwvdGV4dD48L3N2Zz4=",
+        "timestamp": "2026-05-21T15:34:59.747475",
+        "status": "done"
+    }
+]
