@@ -511,7 +511,8 @@ with tab2:
                 card_col1, card_col2 = st.columns([3, 1])
                 card_col1.caption(f"제보시각: {rep['timestamp'][:16].replace('T', ' ')}")
                 
-                if card_col2.button("🔍 보기", key=f"focus-{rep['id']}", size="small"):
+                if card_col2.button("🔍 보기", key=f"focus-{rep['id']}"):
+
                     st.session_state.community_center = rep["coords"]
                     st.session_state.community_zoom = 15
                     st.rerun()
