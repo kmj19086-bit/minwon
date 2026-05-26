@@ -190,7 +190,8 @@ def build_community_map_html(selected_category="전체보기"):
         iframe = folium.IFrame(popup_html, width=240, height=230)
         popup = folium.Popup(iframe, max_width=250)
         icon = folium.Icon(color=marker_color, icon="info-sign")
-        folium.Marker(rep["coords"], popup=popup, icon=icon).addTo(m)
+        folium.Marker(rep["coords"], popup=popup, icon=icon).add_to(m)
+
         
     return m._repr_html_()
 

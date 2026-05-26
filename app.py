@@ -407,7 +407,8 @@ with tab1:
             # Leaflet Map setup
             st.markdown("**📍 지도에서 상세 사고 위치 클릭**")
             m_editor = folium.Map(location=draft["coords"], zoom_start=16)
-            folium.Marker(draft["coords"], popup="신고 지점").addTo(m_editor)
+            folium.Marker(draft["coords"], popup="신고 지점").add_to(m_editor)
+
             
             map_data = st_folium(m_editor, height=220, use_container_width=True, key="editor_map")
             
